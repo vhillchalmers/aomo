@@ -1,0 +1,2 @@
+# aomo
+blog test/dev
